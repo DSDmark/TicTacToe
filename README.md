@@ -29,6 +29,10 @@ Once you are done playing you can close the tab in your browser to quit the game
 
 ---
 
+## Try Out TicTacToc Demo
+
+<a href="https://dsdmark.github.io/TicTacToe/" alt="TicTacToc Demo">TicTacToc Demo</a>
+
 </div>
 
 ### Tic tac toc
