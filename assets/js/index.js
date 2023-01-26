@@ -21,7 +21,7 @@ var currentPlayer = 'X';
 
 // ─── MASSAGES FOR GAME IS DRAW , WIN AND PLAYER TURN  ───────────────────────────────────────────────────────────────────
 const winnerMass = () => {
-	var winPlayer = currentPlayer === 'X' ? '0' : 'X';
+	var winPlayer = currentPlayer === 'X' ? 'X' : '0';
 	return `${currentPlayer} is win 👋≧◉ᴥ◉≦`;
 };
 const drawMass = () => `game is draw no one is win`;
