@@ -6,7 +6,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/TicTacToe)
 [![Deploy static content to Pages](https://github.com/DSDmark/TicTacToe/actions/workflows/static.yml/badge.svg)](https://github.com/DSDmark/TicTacToe/actions/workflows/static.yml)
 
-# AS੯ames Collection
 
 <div>
 
